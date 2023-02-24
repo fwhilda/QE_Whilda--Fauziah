@@ -1,3 +1,8 @@
-# QE_Whilda--Fauziah
- branch baru
+# Rangkuman
+
+- GIT
+repositoory >> folder
+untuk berkolaborasi bersama
+branch >> line utama buat melakukan perubahan 
+commit >> perintah
  
